@@ -22,8 +22,8 @@
   <p style="font-family:Arial;">    
     <img src="https://img.shields.io/badge/Result%20Driven%20Sophomore%20-SRMIST, KTR🏫-green?style=for-the-badge&logo=one" />
     <img src="https://img.shields.io/badge/Exploring%20various%20domains-Programming🖥️-green?style=for-the-badge&logo=one" />  
-    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20backend%20dev-Learning📚-green?style=for-the-badge&logo=one" />
-    <img src="https://img.shields.io/badge/Premier%20League%20:%20Chelsea(cOYG)-Football⚽-green?style=for-the-badge&logo=one" /><br>     
+    <img src="https://img.shields.io/badge/Bits%20and%20bytes%20of%20development-Learning📚-green?style=for-the-badge&logo=one" />
+    <img src="https://img.shields.io/badge/Premier%20League%20:%20Chelsea-Football⚽-green?style=for-the-badge&logo=one" /><br>     
     <img src="https://img.shields.io/badge/Humans%20and%20Plants-True%20%F0%9F%92%96-green?style=for-the-badge&logo=heart" /><br> 
   </p>
  </div>
@@ -41,7 +41,8 @@
   <p align="right">
     <img src="https://img.shields.io/badge/frontend%20stacks-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40px" width="40px"src="https://github.com/Sanscode2911/Sanscode2911/blob/main/tech/icons8-html-5.svg" />
-    <img height="40px" width="40px" src="https://github.com/Sanscode2911/Sanscode2911/blob/main/tech/icons8-sass.svg" /><br><br> 
+    <img height="40px" width="40px" src="https://github.com/Sanscode2911/Sanscode2911/blob/main/tech/icons8-sass.svg" />
+    <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/javascript.svg" /><br><br> 
     <img src="https://img.shields.io/badge/backend%20stacks-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/flask.svg" />
     <img height="40px" width="40px"src="https://github.com/Sanscode2911/Sanscode2911/blob/main/tech/socketio-icon.svg" />
