@@ -41,7 +41,7 @@
   <p align="right">
     <img src="https://img.shields.io/badge/backend%20stacks-pink?&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/flask.svg" />
-    <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/fastapi.jpg" />
+    <img height="40px" width="40px"src="https://github.com/Sanscode2911/Sanscode2911/blob/main/tech/socketio-icon.svg" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/django.svg" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-node-js-64.png" />
     <img height="40px" width="40px" src="https://github.com/sd2001/sd2001/blob/master/Tech/javascript.svg" /><br><br>  
