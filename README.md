@@ -53,7 +53,7 @@
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/icons8-github-50.png" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/heroku-48.png" />
   <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/sql-52.png" />
-  <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/postgresql.png" />
+  <img height="40px" width="40px"src="https://github.com/Sanscode2911/Sanscode2911/blob/main/tech/aws.svg" />
     <img height="40px" width="40px"src="https://github.com/sd2001/sd2001/blob/master/Tech/mongodb.svg" />
   </p>
  </div>
